@@ -1,0 +1,22 @@
+body{
+background-image: url('bg.JPEG');
+        background-repeat: no-repeat;
+        background-size: cover;
+border: 2px solid black;
+        margin:20px;
+padding : 20px;
+}
+.myDiv {
+  border: 2px outset green;
+  text-align: left;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid;
+}
